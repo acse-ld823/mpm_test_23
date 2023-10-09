@@ -1,4 +1,4 @@
-import numpy as np
+port numpy as np
 
 a = np.sin(np.pi/2)
 
