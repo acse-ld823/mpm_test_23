@@ -18,3 +18,5 @@ d = np.arccos(1.)
 
 
 print(d)
+
+print("原神启动")
